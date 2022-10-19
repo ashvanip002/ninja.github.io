@@ -54,7 +54,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'authsysproject.urls'
+ROOT_URLCONF = 'ninja.urls'
 
 TEMPLATES = [
     {
@@ -72,7 +72,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'authsysproject.wsgi.application'
+WSGI_APPLICATION = 'ninja.wsgi.application'
 
 
 # Database
