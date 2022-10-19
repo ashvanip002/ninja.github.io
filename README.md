@@ -1,4 +1,7 @@
-# ninja.github.ioIn this project I made simple site with database access feature for login and logout. In project I used HTML, CSS, JS for frontend design, Python Django for backend and sqlite for database connectivity.
+Images are provided in docx file. for better information download and read the docx file.
+
+
+In this project I made simple site with database access feature for login and logout. In project I used HTML, CSS, JS for frontend design, Python Django for backend and sqlite for database connectivity.
 
 
 The above given image is homepage to my site with login and signup function
